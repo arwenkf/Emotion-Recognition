@@ -11,3 +11,6 @@ This project is designed to create an app that will allow users to input a video
 # Development Status
 - Nearly complete! AI is finished, and app is in development
 - First benchmark will be fully completed by January 24th. This includes the ability to recognize emotions in pictures and log the emotions into the app's database
+
+# How to run
+At the moment, the files run perfectly, but are limited to local machines, since they rely upon file paths. However, once the app is completed, this will be solved. In the meantime, in order to be tested on other machines, the user would have to download the files and change a few file path variables.
